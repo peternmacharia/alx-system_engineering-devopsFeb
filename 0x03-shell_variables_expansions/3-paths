@@ -1,2 +1,2 @@
 #!/bin/bash
-alias PATH=ls -l $PATH
+ls -l $PATH

@@ -1,2 +1,1 @@
-#!/bin/bash
-cat -lt | head -3 iacta 
+-e#!/bin/bash\necho -lt -3 | head iacta
